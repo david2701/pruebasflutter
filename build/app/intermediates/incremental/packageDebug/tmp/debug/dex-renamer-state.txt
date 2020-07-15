@@ -1,0 +1,4 @@
+#Wed Jul 15 23:20:09 CEST 2020
+base.0=/Users/davidv/Downloads/Flutter-http-Request-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
